@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mondpi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80356B01-83B3-46BD-8183-412565BAB36F}|mondpi\\mondpi.csproj|d:\\mondpi\\mondpi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80356B01-83B3-46BD-8183-412565BAB36F}|mondpi\\mondpi.csproj|solutionrelative:mondpi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mondpi\\mondpi\\Program.cs",
+              "RelativeDocumentMoniker": "mondpi\\Program.cs",
+              "ToolTip": "D:\\mondpi\\mondpi\\Program.cs",
+              "RelativeToolTip": "mondpi\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:51:57.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
